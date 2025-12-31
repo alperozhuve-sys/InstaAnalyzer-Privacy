@@ -37,3 +37,18 @@ Açık kaynaklı ve serbestçe kullanılabilir.
 ## ⚠️ Uyarı
 
 Bu belge **bilgilendirme amaçlıdır**. Uygulamanızın gizlilik politikalarını uygulamadan önce yerel yasalar ve düzenlemeleri göz önünde bulundurmalısınız.
+
+## 🛠 Katkıda Bulunma
+
+Katkılarınızı memnuniyetle karşılıyoruz!  
+Değişiklik yapmak için aşağıdaki adımları izleyin:
+
+1. Repoyu fork'layın (çatallayın)  
+2. Yeni bir dal oluşturun:  
+   ```bash
+   git checkout -b feature/yenidegistirme
+   git commit -am "Yeni özellik eklendi"
+   git push origin feature/yenidegistirme
+   Bunu README.md dosyana eklediğinde, hem açık hem de anlaşılır olur.  
+
+İstersen ben sana **README.md’nin tamamını Türkçe olarak hazır, görselli ve linkli bir sürümünü** de hazırlayabilirim. Bunu da yapayım mı?
